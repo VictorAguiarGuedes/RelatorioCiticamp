@@ -2,3 +2,4 @@ Lista de alunos que vieram para o CitiCamp:
 Emilly
 João Gabriel
 Douglas
+Pedro
